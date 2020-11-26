@@ -6,4 +6,10 @@
 This programs code is all about how initial selenium java code will look like! (Just a tip of the iceberg) 
 
 ##### **2. [ExtentReport.java](https://github.com/loydtellis/Selenium-Java/blob/main/ExtentReport.java)**
-This programs code is how to use Extent Report and to get more extensive and insightful perspective on the execution of your automation scripts.  
+This programs code is about how to use Extent Report and to get more extensive and insightful perspective on the execution of your automation scripts.  
+
+##### **3. [GetDataFromExcell.java](https://github.com/loydtellis/Selenium-Java/blob/main/GetDataFromExcell.java)**
+This programs code is about how to get data from excel sheet and use the dynamic value where required  
+
+
+
