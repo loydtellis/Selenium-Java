@@ -4,3 +4,6 @@
 
 ##### **1. Setup_basic.java**
 This programs code is all about how initial selenium java code will look like! (Just a tip of the iceberg) 
+
+##### **2. ExtentReport.java**
+This programs code is how to use Extent Report and to get more extensive and insightful perspective on the execution of your automation scripts.  
