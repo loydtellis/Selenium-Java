@@ -23,3 +23,6 @@ This programs code is about how to get data from excel sheet and use the dynamic
 This programs code is about how to use Action method to move the cursor over specific element and then click on a specific element.
 
 ---
+
+##### **5. [Covert_ImagesTo_GIF.java](https://github.com/loydtellis/Selenium-Java/blob/main/Covert_ImagesTo_GIF.java)**
+This programs code is not exactly a Selenium code but this converts images in a folder with perticular extensions(png, jpg,...) and converts them into GIF image. I have included this program here because this code can/could be used after selenium automation script takes screenshots and stores in a folder.
