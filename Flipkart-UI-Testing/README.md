@@ -5,7 +5,7 @@
 #### **1. [FlipkartUI_Tesing.java](https://github.com/loydtellis/Selenium-Java/blob/main/Flipkart-UI-Testing/FlipkartUI_Tesing.java)**
 ##### Test case flow: 
 ##### open url> login using data from excel> find search button, enter Samsung > select a model, click > click 'Go to Cart'> verify clicked model and ordered model are same or not, if same click on 'Place Order'(But not complete the order process) else exit!
-![](GIT/flipkart_test.gif)
+![](GIF/flipkart_test.gif)
 
 #### **2. [flipkart_hover.java](https://github.com/loydtellis/Selenium-Java/blob/main/Flipkart-UI-Testing/flipkart_hover.java)**
 ##### Test case flow:
