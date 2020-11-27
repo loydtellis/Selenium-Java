@@ -9,12 +9,14 @@ import java.nio.file.*;
 import javax.imageio.ImageIO;
 import javax.imageio.stream.FileImageOutputStream;
 import javax.imageio.stream.ImageOutputStream;
-
 import com.simiacryptus.util.io.GifSequenceWriter;
 
+
+//prerequisite: Make sure all the images in the folder to be of same resolution. If it isn't that image won't be included in the GIF.
+
 public class Covert_ImagesTo_GIF {
-	static final File dir = new File(
-			"F://SoftInstall//Selenium eclipse//Selenium SS");
+	
+	static final File dir = new File("F://SoftInstall//Selenium eclipse//Selenium SS");
 	static final String[] EXTENSIONS = new String[] { "png" // (, "bmp", "jpg") use the code in brackets to add more extension
 	};
 
