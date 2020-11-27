@@ -12,7 +12,7 @@ This programs code is about how to use Extent Report and to get more extensive a
 This programs code is about how to get data from excel sheet and use the dynamic value where required  
 
 ##### **4. [Mouse_hover.java](https://github.com/loydtellis/Selenium-Java/blob/main/Mouse_hover.java)**
-This programs code is about how to Action method to move the cursor over specific element and then click on a specific element.  
+This programs code is about how to use Action method to move the cursor over specific element and then click on a specific element.  
 
 
 
