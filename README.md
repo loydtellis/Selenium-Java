@@ -30,3 +30,5 @@ This programs code is not exactly a Selenium code but this converts images in a 
 ---
 ##### **6. [GetScreenshot.java](https://github.com/loydtellis/Selenium-Java/blob/main/GetScreenshot.java)**
 This program will allow you to take a screenshot/screenshots of the Webpage you are testing on!
+
+---
